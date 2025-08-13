@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![giovannfeitoza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=giovannfeitoza&theme=tokyonight&hide_border=true)
+
+![giovannfeitoza's Stats](https://github-readme-stats.vercel.app/api?username=giovannfeitoza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![giovannfeitoza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannfeitoza&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
